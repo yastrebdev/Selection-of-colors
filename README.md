@@ -8,3 +8,8 @@
 3. After pressing the lock the selected color is locked and the next time you press the space bar does not change
 4. The generated colors hit the browser bar and can, then you can copy the full address and get the same result in a new browser window
 5. The color code is copied by clicking on it
+
+## How does it work?
+
+1. Go to https://yastrebdev.github.io/Selection-of-colors/ and press the space bar to start
+2. You can also download the repository, open it in any convenient development environment and run it on the local server
