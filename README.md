@@ -6,7 +6,7 @@
 1. Randomly generate colors and display them in the interface with the "space" key
 2. Defining a color shade to display text elements correctly using the croma.js library
 3. After pressing the lock the selected color is locked and the next time you press the space bar does not change
-4. The generated colors hit the browser bar and can, then you can copy the full address and get the same result in a new browser window
+4. The generated colours go to the url bar of the browser, so that the final palette can be transferred to another user
 5. The color code is copied by clicking on it
 
 ## How does it work?
